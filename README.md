@@ -1,7 +1,6 @@
 # Symbiosis Homebrew Tap
 
-Symbiosis - Easy managed Kubernetes
-Website: https://symbiosis.host
+[Symbiosis - Managed Kubernetes](https://symbiosis.host)
 
 ## How do I install these formulae?
 
