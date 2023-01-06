@@ -1,8 +1,8 @@
 class Sym < Formula
   desc "Symbiosis Managed Kubernetes CLI tool"
   homepage "https://github.com/symbiosis-cloud/cli"
-  url "https://github.com/symbiosis-cloud/cli/archive/refs/tags/v0.0.8.tar.gz"
-  sha256 "79149df22abf0503632134d622c8a9862cfa2ff9b9b6ab3ce505a0ca16858cc8"
+  url "https://github.com/symbiosis-cloud/cli/archive/refs/tags/v0.0.9.tar.gz"
+  sha256 "723ba738618f25072e0139ecf01efe07474e363b65299b2ae630fda9b36e5c54"
   license "Apache-2.0"
   head "https://github.com/symbiosis-cloud/cli.git", branch: "main"
 
